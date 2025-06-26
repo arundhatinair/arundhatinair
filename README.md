@@ -16,9 +16,7 @@ I'm a final-year Computer Science and Business Systems student. I'm no expert, b
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Apache Mesos](https://img.shields.io/badge/Mesos-232F3E?style=for-the-badge&logo=apachemesos&logoColor=white)
-![Marathon](https://img.shields.io/badge/Marathon-000000?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
 
 ---
 
